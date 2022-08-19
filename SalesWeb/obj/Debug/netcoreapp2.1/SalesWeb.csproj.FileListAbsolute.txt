@@ -34,4 +34,3 @@ C:\Users\jvlim\Desktop\Testando\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\SalesW
 C:\Users\jvlim\Desktop\Testando\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\SalesWeb.pdb
 C:\Users\jvlim\Desktop\Testando\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\SalesWeb.genruntimeconfig.cache
 C:\Users\jvlim\Desktop\Testando\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\SalesWeb.csproj.CopyComplete
-C:\Users\jvlim\Desktop\Testando\SalesWeb\SalesWeb\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Index.cshtml.g.cs
